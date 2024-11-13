@@ -30,7 +30,7 @@ export default function RootLayout({
     <html lang="en">
       <body className="h-screen w-full">
         <NoLogNavbar />
-        <main className="relative overflow-hidden">
+        <main className="relative overflow-hidden p-6">
           {children}
         </main>
         <Footer />

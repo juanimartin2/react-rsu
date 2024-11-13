@@ -17,7 +17,8 @@ function Formulario() {
           <h3>Clave</h3>
           <input 
           className='rounded-lg border-2 border-slate-400'
-          type="text" 
+          type="password"
+          datatype='password'
           name="clave" 
           />
         </label>
