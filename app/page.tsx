@@ -1,10 +1,9 @@
-import Button from "@/componentes/button";
-import Inicio from "@/componentes/Inicio";
+import Login from "@/componentes/Login";
 
 export default function Home() {
   return (
     <>
-    <Inicio />
+    <Login />
     </>
   );
 }

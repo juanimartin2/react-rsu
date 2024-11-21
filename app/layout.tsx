@@ -28,12 +28,10 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en">
-      <body className="h-screen w-full">
-        <NoLogNavbar />
-        <main className="relative overflow-hidden p-6">
+      <body>
+        <main className="relative overflow-hidden p-6 h-screen w-full">
           {children}
         </main>
-        <Footer />
       </body>
     </html>
   );

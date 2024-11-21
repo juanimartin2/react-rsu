@@ -6,8 +6,7 @@ import Button from "./button"
 
 function NoLogNavbar() {
   return (
-    <nav className="flexCenter max-container
-    padding-container relative z-30 py-5">
+    <nav className="flexCenter max-container padding-container relative z-30 py-5">
      <Link href="/">
       <Image src="/logo2-ucc.svg" alt="logo" width={64} height={29}/>
      </Link> 
