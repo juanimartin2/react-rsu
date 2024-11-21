@@ -8,7 +8,7 @@ function inicio() {
     <>
     <Navbar />
     <div className='flexCenter'>
-    <h1>PAGINA INICIOOOO</h1>
+    <h1>PAGINA INICIOOOOOO</h1>
     </div>
     <Footer />
     </>
